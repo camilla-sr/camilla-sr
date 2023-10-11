@@ -1,8 +1,8 @@
 <div>
 <a href="https://github.com/camilla-sr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camilla-sr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><br><br><br>
 
 
 I’m currently learning<br>
