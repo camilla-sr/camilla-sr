@@ -3,8 +3,12 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&langs_count=7&theme=dracula"/>
 </div><br><br>
 
+•Estudante do curso técnico em TI, rumo ao superior ⬆️
+•23 anos
+•ela/dela
 
-I’m currently learning<br>
+
+- Estou aprendendo:<br>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
@@ -15,7 +19,7 @@ I’m currently learning<br>
 </div><br><br>
 
 
-- 📫 How to reach me: ...<br>
+- Você pode me encontrar em:<br>
 <div>
 <a href = "mailto:camilla.sreis2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/camilla.doragon" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
