@@ -3,10 +3,11 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&langs_count=7&theme=dracula"/>
 </div><br><br>
 
-•Estudante do curso técnico em TI, rumo ao superior ⬆️
-•23 anos
-•ela/dela
-<br>
+<p>
+•Estudante do curso técnico em TI, rumo ao superior ⬆️<br>
+•23 anos<br>
+•ela/dela<br>
+<br><p>
 
 - Estou aprendendo:<br>
 <div>
