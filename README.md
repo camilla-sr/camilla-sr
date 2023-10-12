@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/camilla-sr">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&langs_count=7&theme=dracula"/>
-</div><br><br>
+</div><br>
 
 <p>
 •Estudante do curso técnico em TI, rumo ao superior ⬆️<br>
