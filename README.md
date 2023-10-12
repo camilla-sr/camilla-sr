@@ -6,7 +6,7 @@
 •Estudante do curso técnico em TI, rumo ao superior ⬆️
 •23 anos
 •ela/dela
-
+<br>
 
 - Estou aprendendo:<br>
 <div>
