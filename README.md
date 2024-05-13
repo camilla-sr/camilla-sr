@@ -1,7 +1,5 @@
-  <a href="https://github.com/camilla-sr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=camilla-sr&theme=prussian" /></a>
-  <a href="https://github.com/camilla-sr/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilla-sr&layout=compact&langs_count=8&card_width=320&theme=prussian" /></a></td>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camilla-srE&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 <br><br>
 
 <p>
