@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 30px; margin-bottom: 20px">
   <img src="https://github-readme-stats.vercel.app/api?username=camilla-sr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
-</div>
+</div><br>
 
 - Desenvolvedora Junior, cursando bacharelado em Sistemas de Informação
 - 24 anos
