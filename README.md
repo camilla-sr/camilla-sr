@@ -4,7 +4,7 @@
 </div><br>
 
 - Desenvolvedora Junior, cursando bacharelado em Sistemas de Informação
-- 24 anos
+- 25 anos
 
 
 ### Tecnologias:
