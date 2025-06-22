@@ -3,9 +3,10 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
 </div><br>
 
-- Desenvolvedora Junior, cursando bacharelado em Sistemas de Informação
-- 25 anos
-
+- Desenvolvedora Júnior, cursando Bacharelado em Sistemas de Informação;
+- 25 anos;
+- Conhecimento em fullstack, mas meu coração está no back-end. A forma como as coisas funcionam trás das telas bonitas me fascina;
+- Apaixonada por jogos antigos, consoles de mão e RPG;
 
 ### Tecnologias:
 <div style="display: flex; gap: 10px">
@@ -24,9 +25,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40"/>          
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
-    
 </div>
 
+### IDEs que utilizo:
+<div style="display: flex; gap: 50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+</div>
 
 ### Você pode me encontrar em:
 <div>
