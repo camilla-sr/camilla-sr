@@ -1,7 +1,7 @@
 <div style="display: flex; gap: 30px; margin-bottom: 20px">
-  <img src="https://github-readme-stats.vercel.app/api?username=camilla-sr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=camilla-sr&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Top Langs"/>
-</div><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=camilla-sr&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=camilla-sr&theme=github_dark" />
+</div>
 
 - Desenvolvedora Júnior, cursando Bacharelado em Sistemas de Informação;
 - 25 anos;
@@ -23,8 +23,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40"/>          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
 </div>
 
 ### IDEs que utilizo:
