@@ -4,8 +4,8 @@
 </div>
 
 - Desenvolvedora Júnior, cursando Bacharelado em Sistemas de Informação;
-- 25 anos;
-- Conhecimento em fullstack, mas meu coração está no back-end. A forma como as coisas funcionam trás das telas bonitas me fascina;
+- 26 anos;
+- Conhecimento em fullstack, mas meu coração está no back-end. A forma como as coisas funcionam por trás das telas bonitas me fascina;
 - Apaixonada por jogos antigos, consoles de mão e RPG;
 
 ### Tecnologias:
